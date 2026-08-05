@@ -25,7 +25,7 @@
 |---|---|---|
 | [AI认知校准清单_优化版.md](./AI认知校准清单_优化版.md) | 中文 | 完整校准清单正文 |
 | [AI Cognitive Calibration Manifesto.md](./AI%20Cognitive%20Calibration%20Manifesto.md) | English | English version |
-| [与ChatGPT的推演记录.md](./与ChatGPT的推演记录.md) | 中文 | 校准清单产生过程：老易与 ChatGPT 的完整推演对话 |
+| [与ChatGPT的沟通原版.md](./与ChatGPT的沟通原版.md) | 中文 | 老易与 ChatGPT 完整对话记录：校准清单背后的推演过程 |
 
 ---
 
